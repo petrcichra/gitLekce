@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("Ahoj Commite and Pushe");
         System.out.println("how are yoi");
+	System.out.println("TOTO jsem přidal z GitHubu");
     }
 }
